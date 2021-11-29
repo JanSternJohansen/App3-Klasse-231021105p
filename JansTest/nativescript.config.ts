@@ -1,7 +1,7 @@
 import { NativeScriptConfig } from '@nativescript/core';
 
 export default {
-  id: 'org.nativescript.JansFirst',
+  id: 'org.nativescript.JansTest',
   appPath: 'app',
   appResourcesPath: 'App_Resources',
   android: {
